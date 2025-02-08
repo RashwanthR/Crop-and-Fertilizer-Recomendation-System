@@ -129,8 +129,7 @@ Contact
 
 If you have any questions or suggestions, reach out via:
 
-Email: your-email@example.com
+Email: rashwanth89@gmail.com
 
-GitHub Issues: Open an Issue
 
 Happy Farming & Smart Agriculture!
